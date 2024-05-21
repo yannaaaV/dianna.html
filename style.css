@@ -277,15 +277,15 @@ ul {
 }
 
 #footer ul.list-unstyled li a {
-    color: #ffffff;
+    color: #0df032;
 }
 
 #footer ul.list-unstyled li:hover a {
-    color: var(--brand) ;
+   color: #65bdec;
 }
 
 #reviews h2, #services h2 {
-    color: var(--bg1);
+    color: #e270c6;
 }
 
 .btn-outline-light {

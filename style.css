@@ -273,7 +273,7 @@ ul {
  #footer {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: var(--bg1);
+    background-color:black;
 }
 
 #footer ul.list-unstyled li a {

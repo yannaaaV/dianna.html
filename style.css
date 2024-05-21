@@ -275,7 +275,7 @@ ul {
 }
 
 #footer ul.list-unstyled li a {
-    color: #ffffff;
+    color: #1597f5;
 }
 
 #footer ul.list-unstyled li:hover a {
@@ -287,8 +287,8 @@ ul {
 }
 
 .btn-outline-light {
-    border-color: #F2B03B !important;
-    color: #F2B03B;
+    border-color: #65ef29 !important;
+    color: #8df23b;
 }
 
 #footer h5 {

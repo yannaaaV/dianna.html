@@ -204,10 +204,10 @@ ul {
  }
 
  #reviews a {
-   color: var(--white);
-}
-
-.faq-section {
+    color: var(--white);
+ }
+ 
+ .faqsection {
     max-width: 800px;
     margin: auto;
  }
@@ -220,17 +220,16 @@ ul {
  #faq {
     background-color: var(--brand);
  }
- 
+
  .accordion-button{
-    background-color: #e270c6;
+    background-color: #e41eee;
     border: none;
-    border-bottom: 1px solid #3a023a;
+    border-bottom: 1px solid #fffcfc;
     border-radius: 0;
     padding: 15px;
     font-size: 18px;
     font-weight: 500;
     color: #343a40;
-    cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
  }
  
@@ -240,6 +239,7 @@ ul {
     margin-left: 0;
     background-color: #f8f9fa;
  }
+ 
  
  .faq-answer p {
     margin-bottom: 0;
@@ -254,7 +254,7 @@ ul {
  }
  /* hover effect for FAQ queston  */
  .accordion-button:hover {
-    background-color: linear-gradient(to bottom, hsla(293, 78%, 58%, 0.829), rgba(243, 178, 227, 0.884));
+    background-color: var(--body);
     color: var(--bg2);
  }
  
